@@ -3,7 +3,7 @@ Project: ***Snakes Cafe*** <br>
 Author: **Raghd Smadi :read_heart:**
 <br>
 *************************************************
-[snakes_cafe_pull_request](https://github.com/Raghdsmadi/snake-cafe/pull/2) <br>
+[snakes_cafe_pull_request](https://github.com/Raghdsmadi/snake-cafe/pull/4) <br>
 
 <h4>How to run my application:
 <br> python snakes_cafe.py </h4>
