@@ -3,13 +3,12 @@ Project: ***Snakes Cafe*** <br>
 Author: **Raghd Smadi :read_heart:**
 <br>
 *************************************************
-[snakes_cafe](https://raghdsmadi.github.io/snake-cafe/) <br>
+[snakes_cafe_pull_request](https://github.com/Raghdsmadi/snake-cafe/pull/2) <br>
 
 <h4>How to run my application:
 <br> python snakes_cafe.py </h4>
 <br>
-*************************************************
-<br> 
+************************************************* 
 
 - How do you run tests? By this command => python snakes_cafe.py <br>
 
